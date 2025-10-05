@@ -1,4 +1,4 @@
-<h2> 📚 Paradigma de Programação Orientado a Objetos (POO) </h2>
+<h2> 📚 Paradigma de Programação Funcional (PF) </h2>
 
 <p>
 A programação funcional basea-se em funções matemáticas puraas e imutabilidade de dados como principal artifício; isto é, em vez de dizer como um computador deve processar, diz-se o que quer obter. Descrevendo assim as relações e transformações de dados.
