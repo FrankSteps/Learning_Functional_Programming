@@ -12,15 +12,15 @@ main = do
         z = 5
 
     --chamando e mostrando o valor de cada função
-    putStrLn("soma: " ++ show(soma x))
+    putStrLn("soma: " ++ show(somas x))
     putStrLn("fibn: " ++ show(fibonacci y))
     putStrLn("fatr: " ++ show(fatorial z))
 
 
 --função que soma todos os números - somatório
-soma :: Int -> Int
-soma 1 = 1
-soma x = soma(x-1)+x
+somas :: Int -> Int
+somas 1 = 1
+somas x = somas(x-1)+x
 
 
 --função que representa a sequencia de fibonacci

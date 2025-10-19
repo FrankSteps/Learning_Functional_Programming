@@ -26,3 +26,4 @@ menor l n m
     | n <= l && n <= m = n
     | otherwise        = m
 
+mmc :: Int -> Int -> Int -> Int

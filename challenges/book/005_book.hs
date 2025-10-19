@@ -5,7 +5,8 @@
     a2 = raiz de (6 + raiz de (6))
     a3 = raiz de (6 + raiz de (raiz de 6))
 
-    Encontre a forma recursiva para a n+1
+    a) Encontre a forma recursiva para a n+1
+    b) Some os primeiros 10 elementos
 -}
 
 main :: IO()
