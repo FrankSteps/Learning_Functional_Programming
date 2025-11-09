@@ -8,12 +8,12 @@ Chama-se ano bissexto o ano ao qual é acrescentado um dia extra, ficando ele co
 
 main :: IO()
 main = do
-    let ano = 1900
-    putStrLn(bissexto ano)
+    let ano_teste = 1900
+    putStrLn(bissexto ano_teste)
 
 bissexto :: Int -> String
-bissexto ano
+bissexto ano_teste
     | anoBissexto = "É um ano bissexto"
     | otherwise   = "Não é um ano bissexto"
     where
-        anoBissexto = (ano `mod` 4 == 0) && ((ano `mod` 100 /= 0) || (ano `mod` 400 == 0))
+        anoBissexto = (ano_teste `mod` 4 == 0) && ((ano_teste `mod` 100 /= 0) || (ano_teste `mod` 400 == 0))
