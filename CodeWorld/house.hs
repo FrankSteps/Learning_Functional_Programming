@@ -30,7 +30,7 @@ janela :: Picture
 janela = rectangle 2 2 
 
 chamine :: Picture 
-chamine = polygon [(1, 3.65), (2, 2.8), (2, 5), (1, 5)]
+chamine = polygon [(1, 3.67), (2, 2.83), (2, 5), (1, 5)]
 
 trinco :: Picture
 trinco = solidCircle 0.2 
@@ -41,7 +41,6 @@ detalhe1 = rectangle 0 2
 detalhe2 :: Picture 
 detalhe2 = rectangle 2 0
     
-
 
 
 
