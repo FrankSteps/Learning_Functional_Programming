@@ -1,9 +1,0 @@
-O que é Haskell?
-    Haskell é uma linguagem de programação de paradigma
-funcional; isto é, o mesmo é fundamentalmente construído
-por intermédio de funções matemáticas, o que faz o mesmo
-ser matematicamente provado.
-
-    "Os modelos para as estruturas de dados são baseadas na
-Teoria dos Conjuntos, enquanto as operações são descritas com o uso de funções entre os vários tipos de conjuntos."
-
