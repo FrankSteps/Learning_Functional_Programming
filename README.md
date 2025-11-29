@@ -30,4 +30,5 @@ Em linguagens de paradigma funcional, a recursão é usada para no lugar de laç
 
 <h2> 🧮 DEMAIS ANOTAÇÕES:</h2>
 
-Uma versão em inglẽs desta nota será lançada ao final do curso de PF -> Até lá, a mesma será modificada conforme o meu aprendizado for ampliando.
+compilar usando: 
+runghc -Wno-tabs [arquivo].hs
