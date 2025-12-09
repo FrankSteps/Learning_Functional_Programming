@@ -1,6 +1,7 @@
 {-
 	Por conta do tempo, irei criar uma função que faz a soma de dois tempos
 -}
+
 import Text.Printf
 
 type Tempo = (Int, Int, Int)
