@@ -23,4 +23,4 @@ serieEuler 0 = 1
 serieEuler n = 1 / fat n + serieEuler(n-1)
     where 
        fat 0 = 1
-       fat k = fromIntegral k * fat(k-1)
+       fat m = fromIntegral m * fat(m-1)
