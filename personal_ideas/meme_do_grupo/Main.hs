@@ -11,3 +11,5 @@ main = pratoFeito
 
 pratoFeito :: PF()
 pratoFeito = putStrLn("DComp")
+
+
